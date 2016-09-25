@@ -6,3 +6,6 @@ Adding some more functionality in feature01
 Complited feature01 
 
 Fixed Bug#001 in feature 01
+
+
+Applied Hot Fix001

@@ -5,3 +5,6 @@ Working on Feature02
 Complited Feature02
 
 Fixed Bug#002 in Beta release 
+
+
+Applied Hot Fix001
